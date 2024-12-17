@@ -1,0 +1,35 @@
+[
+    {
+        "title": "EduFord",
+        "imageSrc": "projects/eduford.jpg",
+        "description": "This is a responsive web built for eduford",
+        "skills": ["HTML", "CSS"],
+        "demo": "https://first-responsive-web-delta.vercel.app/",
+        "source": "https://github.com/EmjayTech/First-Responsive-Web"
+    },
+    {
+        "title": "Node-Passport-Login",
+        "imageSrc": "projects/node-passport.jpg",
+        "description": "This is a login and register form with MongoDB Database and Passport Authentication",
+        "skills": ["HTML", "BootStrap", "NodeJS", "Passport-OAuth", "MongoDB" ],
+        "demo": "https://node-passport-login-updated.vercel.app/",
+        "source": "https://github.com/EmjayTech/node_passport_login-Updated-"
+    },
+    {
+        "title": "ToDo-List",
+        "imageSrc": "projects/todolist.jpg",
+        "description": "A todo List App using node.js express and body-parser",
+        "skills": ["HTML", "CSS", "NodeJS", "Express", "Body-Parser"],
+        "demo": "https://todo-list-sage-rho.vercel.app/",
+        "source": "https://github.com/EmjayTech/todoList"
+    },
+    {
+        "title": "Vite-todoList",
+        "imageSrc": "projects/reactodo.jpg",
+        "description": "A todo List App using React",
+        "skills": ["HTML", "CSS", "ReactJS"],
+        "demo": "https://vercel.com/emjay-tech/vite-todo-list",
+        "source": "https://github.com/EmjayTech/vite-todoList"
+    }
+
+]

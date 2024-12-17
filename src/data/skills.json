@@ -1,0 +1,39 @@
+
+[
+{
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+},
+{
+    "title": "TailwindCSS",
+    "imageSrc": "skills/tail.jpg"
+},
+{
+    "title": "ReactJS",
+    "imageSrc": "skills/react.png"
+},
+{
+    "title": "NodeJS",
+    "imageSrc": "skills/node.png"
+},
+{
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+},
+{
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb (1).png"
+},
+{
+    "title": "Microsoft Excel",
+    "imageSrc": "skills/excel1.jpg"
+},
+{
+    "title": "SPSS",
+    "imageSrc": "skills/spss.png"
+},
+{
+    "title": "BootStrap",
+    "imageSrc": "skills/bootstrap-logo.jpg"
+}
+]
