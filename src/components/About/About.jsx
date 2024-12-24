@@ -8,7 +8,7 @@ export const About = () => {
         <div className={styles.content}><img className={styles.aboutImage} src="aboutImage.png" alt="Pressing laptop"/></div>
         <ul className={styles.aboutItems}>
             <li className={styles.aboutItem}>
-                <img src="../cursorIcon.png" alt="cursor" />
+                <img src="cursorIcon.png" alt="cursor" />
                 <div className={styles.aboutItemText}>
                     <h3>Frontend Developer</h3>
                     <p>I'm an experienced frontend developer in building responsive web applications and optimized sites.</p>
